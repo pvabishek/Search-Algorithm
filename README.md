@@ -117,6 +117,11 @@ else:
 ```
 ## Sample Input and Output
 
+![Screenshot 2023-06-09 193740](https://github.com/pvabishek/Search-Algorithm/assets/119405626/0df517ce-c34c-43a9-a342-850ac1d2febb)
+
+![Screenshot 2023-06-09 193800](https://github.com/pvabishek/Search-Algorithm/assets/119405626/f2a207d6-7e56-4a5a-b041-0b731e4f9c38)
+
+![Screenshot 2023-06-09 193816](https://github.com/pvabishek/Search-Algorithm/assets/119405626/882c3758-27bd-4d03-a442-f7d2bd7fec99)
 
 
 
